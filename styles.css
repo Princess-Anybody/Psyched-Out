@@ -90,6 +90,7 @@ li a:hover:not(.active) {
 ul#navigation {
   font-weight:bold;
   font-size: 145%;
+  color: #ff66ff;
 }
 
 
