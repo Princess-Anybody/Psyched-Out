@@ -10,11 +10,6 @@ h2{
 }
 
 
-.blah{
-  color: #ff66ff;
-  font-size: 100%;
-}
-
 #AboutDevs{
   color: black;
 }
@@ -64,6 +59,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  background-color: #ff66ff;
 }
 
 li {
@@ -90,10 +86,15 @@ li a:hover:not(.active) {
 ul#navigation {
   font-weight:bold;
   font-size: 145%;
-  color: #ff66ff;
+  background-color: #ff66ff;
 }
 
 
 .caption{
   color: black;
+}
+
+.blah{
+  color: #ff66ff;
+  font-size: 100%;
 }
