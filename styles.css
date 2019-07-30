@@ -1,0 +1,94 @@
+p{
+  font-size: 150%;
+  color: #ff66ff;
+}
+
+h2{
+  font-size: 150%;
+  color: #ff66ff;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+
+#AboutDevs{
+  color: black;
+}
+
+#disorder{
+  color: #ff66ff;
+  font-size: 160%;
+}
+
+#color{
+  color: #ff66ff;
+}
+
+#Mission{
+  color: black;
+}
+
+#Information{
+  color: black;
+}
+
+#jumbotron{
+  font-size: 40%;
+  color: #ff66ff;
+}
+
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.disorders{
+  text-align: right;
+  padding-left: 10px;
+}
+
+
+h1{
+  font-family: 'Comfortaa', cursive;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff66ff;
+}
+
+li {
+  display: inline-block;;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #e3b5e3;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+ul#navigation {
+  font-weight:bold;
+  font-size: 145%;
+}
+
+
+.caption{
+  color: black;
+}
