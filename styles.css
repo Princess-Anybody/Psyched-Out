@@ -10,6 +10,11 @@ h2{
 }
 
 
+.blah{
+  color: #ff66ff;
+  font-size: 100%;
+}
+
 #AboutDevs{
   color: black;
 }
@@ -59,7 +64,6 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #ff66ff;
 }
 
 li {
